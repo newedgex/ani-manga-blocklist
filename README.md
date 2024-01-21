@@ -10,3 +10,7 @@ Furthermore, after downloading the list , do a
 cat list.txt | sort -u > newlist.txt
 ```
 To make sure that the domains are sorted and unique.
+
+# Which list should I be using?
+I'd go with refined-blacklist.txt which is hand checked, and that's the one you should contribute as well.
+In cae you want to go big, you can also use the joined blacklist.
