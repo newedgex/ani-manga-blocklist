@@ -109,13 +109,21 @@
 600ml.com
 82novel.com
 9anime-tv.com
+9anime.gs
+9anime.id
+9anime.me
+9anime.ph
+9anime.pl
 9anime.se
 9anime.to
 9anime.vip
+9anime2.com
+9animehq.to
 9animelab.com
 9animes.io
 9animes.org
 9animes.ph
+9animeto.io
 9animetv.to
 9kissanime.com
 a-will-eternal.fandom.com
@@ -155,6 +163,7 @@ angelfairies.awardspace.com
 angelfire.com
 angelicanimanga.foroslatin.com
 ani-kei.fatal.ru
+ani.me
 anibrain.ai
 aniculmedia.com
 anidl.org
@@ -198,6 +207,7 @@ animea.net
 animeafterglow.wordpress.com
 animeast.com
 animeazing.nl
+animebeeto.blogspot.com
 animeblogger.net
 animeblogz.com
 animeboston.com
@@ -218,8 +228,10 @@ animeflix.io
 animeflix.live
 animeflix.website
 animeflv.net
+animefox.in
 animefox.mobi
 animefoxbrasil.blogspot.com
+animefreak.to
 animefreak.tv
 animefreak.video
 animeglobal.net
@@ -266,10 +278,12 @@ animenano.com
 animenerdz.blogspot.com
 animenewsnetwork.com
 animenfo.com
+animenosub.com
 animentodadescarga.blogspot.com
 animeobt.xyz
 animeology.in
 animeomega.com
+animeonline.ninja
 animeonlinetv.org
 animeopeningsongs.com
 animepahe.ac
@@ -301,6 +315,7 @@ animesps.com
 animesrgb.com
 animestc.net
 animestone.com
+animesuge.cc
 animesuge.com
 animesuge.link
 animesuge.to
@@ -308,6 +323,8 @@ animesuki.com
 animesup.net
 animetake.tv
 animetribes.ru
+animeui.com
+animeultima.su
 animeultima.to
 animeunited.com.br
 animevania.com
@@ -484,6 +501,7 @@ chainsaw-man-manga.online
 chainsawman-online.com
 chainsawmanscan.com
 chapmanganato.net
+chia-anime.cc
 chia-anime.me
 chia-anime.su
 chikyaoi.blogspot.com
@@ -752,6 +770,7 @@ gogoanime.club
 gogoanime.cm
 gogoanime.co
 gogoanime.com
+gogoanime.com.co
 gogoanime.cool
 gogoanime.cx
 gogoanime.cyou
@@ -786,6 +805,7 @@ gogoanime.lol
 gogoanime.love
 gogoanime.ltd
 gogoanime.lv
+gogoanime.ma
 gogoanime.me
 gogoanime.men
 gogoanime.mobi
@@ -808,6 +828,7 @@ gogoanime.plus
 gogoanime.press
 gogoanime.pro
 gogoanime.pw
+gogoanime.quest
 gogoanime.re
 gogoanime.red
 gogoanime.rest
@@ -1088,6 +1109,7 @@ informe.com
 infostore.org
 ingridcomics.com
 inkr.com
+iq.com
 iscariote.org
 isekaimahou.com
 isekainonbirinouka.com
@@ -1117,6 +1139,7 @@ jnovels.com
 joepesky.com
 jojolandsmanga.com
 jojosba.com
+jpbound.com
 jpmangas.cc
 jpscan-vf.com
 juegos37.com
@@ -1173,12 +1196,14 @@ kickassanime.us
 kickassanime.xyz
 kickassanime2.com
 kickassanimes.com
+kickassanimes.info
 kickasssanime.com
 kimcartoon.cam
 kingdom-scan.com
 kingdomchapters.online
 kinokuniya.com
 kinu-sekigushi.com
+kisame.tv
 kissanime-apk.com
 kissanime-ru.com
 kissanime-ru.info
@@ -2157,6 +2182,7 @@ secretclass.online
 secretclass.us
 seizeart.com
 sekaimanga.com
+senpaitambayan.com
 senseya.net
 series-anime.com
 serimanga.com
@@ -2180,6 +2206,7 @@ shoujopuntoar.blogspot.com
 shueisha.co.jp
 sigma6gijoe.blogspot.com
 siteunblocked.info
+skdesu.com
 sky-animes.com
 slushtimes.com
 snowcalico.tripod.com
@@ -2346,6 +2373,7 @@ ver-anime.net
 veranime.wordpress.com
 vercel.app
 vfscan.cc
+vhanime.com
 video-anime.com
 viki.com
 vintagecomics.pl
@@ -2382,6 +2410,7 @@ watchkissanime.live
 watchkissanime.me
 watchkissanime.net
 watusay.wordpress.com
+wco.tv
 wcoanime.co
 wcoanime.com
 wcoanime.net
@@ -2472,6 +2501,8 @@ wuxiaz.com
 wwv.scan-1.com
 wwwkissanime.com
 x-animeid.com
+xbato.net
+xbato.org
 xian-ni.fandom.com
 xn--hentaienespaol-1nb.com
 xuges.com
@@ -2483,6 +2514,7 @@ yasashiisekai.wordpress.com
 yattatachi.com
 yenpress.com
 yeppuu.com
+yidio.com
 yilinwang.com
 yonderstory.com
 yualexius.com
