@@ -8,25 +8,6 @@
 123anime.info
 123anime.la
 123anime.me
-animix.pages.dev
-movieswatch.store
-gogoanime.co.ba
-9animes.my
-diziwatch.net
-animeowl-w1.pages.dev
-movieswatch.store
-cineb-stream.com
-9anime.bond
-9animes.my
-aniwatch.cyou
-animension--v8.pages.dev
-9anime.social
-v3-kickassanime.pages.dev
-cineb.best
-ani.freemovies.homes
-midnightpulp.com
-gogo-anime.io
-9anime-to.net
 123anime.mobi
 123anime.net
 123anime.org
@@ -34,7 +15,6 @@ gogo-anime.io
 123anime.watch
 123anime.xyz
 123anime123.com
-jiocinema.com
 123animehd.com
 123animehub.cc
 123animehub.com
@@ -128,7 +108,9 @@ jiocinema.com
 4kissanime.com
 600ml.com
 82novel.com
+9anime-to.net
 9anime-tv.com
+9anime.bond
 9anime.by
 9anime.co.ba
 9anime.com.pl
@@ -141,12 +123,14 @@ jiocinema.com
 9anime.pl
 9anime.pro.in
 9anime.se
+9anime.social
 9anime.to
 9anime.vip
 9anime2.com
 9animehq.to
 9animelab.com
 9animes.io
+9animes.my
 9animes.org
 9animes.ph
 9animeto.io
@@ -189,6 +173,7 @@ angelfairies.awardspace.com
 angelfire.com
 angelicanimanga.foroslatin.com
 ani-kei.fatal.ru
+ani.freemovies.homes
 ani.me
 anibrain.ai
 anicrush.to
@@ -247,6 +232,7 @@ animecentral.ge
 animecollective.com
 animecorner.me
 animedaily.net
+animedao.ac
 animedao.com.ru
 animedao.to
 animediclous.tk
@@ -269,6 +255,7 @@ animeheaven.es
 animeheaven.eu
 animeheaven.me
 animeheaven.mobi
+animeheaven.pages.dev
 animeheaven.to
 animeheaven.top
 animehell.servermh.net
@@ -314,6 +301,7 @@ animenfo.com
 animenosub.com
 animenosub.to
 animenova.jp
+animension--v8.pages.dev
 animentodadescarga.blogspot.com
 animeobt.xyz
 animeology.in
@@ -322,6 +310,7 @@ animeonline.ninja
 animeonlinetv.org
 animeopeningsongs.com
 animeout.xyz
+animeowl-w1.pages.dev
 animepahe.ac
 animepahe.com
 animepahe.ru
@@ -335,7 +324,9 @@ animerevival.xyz
 animerulz.in
 animes-streaming.net
 animes.vision
+animesama.us
 animesaturn.com
+animeschedule.net
 animescx.com.br
 animeseries.so
 animesfoxbr.com
@@ -383,6 +374,7 @@ animezeira.com
 animezone.pl
 animint.com
 animint.uru.org
+animix.pages.dev
 animixplay.fun
 animu.com.br
 anipike.com
@@ -398,6 +390,7 @@ anitube.cz
 anitube.site
 anitubesite.uk
 anituga.xyz
+aniwatch.cyou
 aniwatch.lv
 aniwatch.me
 aniwatch.to
@@ -562,6 +555,8 @@ chikyaoi.blogspot.com
 chinawhisper.com
 chineseanime.vip
 chineseanimeonline.website
+cineb-stream.com
+cineb.best
 citymanga.com
 ciudadmanga.net
 clampfansub.net
@@ -637,6 +632,7 @@ discountmanga.com
 discountmanga.fr
 divedigital.id
 divxonline.info
+diziwatch.net
 dmpbooks.com
 dogguie.com
 dokushoclub.com
@@ -745,6 +741,7 @@ fr-scan.com
 franime.fr
 freaksugar.com
 freecomiconline.me
+freeforyou.site
 freekissanime.net
 freemanga.me
 freemangatop.com
@@ -792,6 +789,7 @@ globalcomix.com
 goblin-slayer.net
 goblinsguide.com
 goblinslayerkissanime.me
+gogo-anime.io
 gogoanime-anime.com
 gogoanime-hub.com
 gogoanime-io.net
@@ -828,6 +826,7 @@ gogoanime.club
 gogoanime.cm
 gogoanime.co
 gogoanime.co.at
+gogoanime.co.ba
 gogoanime.com
 gogoanime.com.co
 gogoanime.cool
@@ -1120,6 +1119,7 @@ haikyuumanga.online
 halcyonrealms.com
 hanakokunscans.online
 hanenoakari.com
+hanimes.org
 harajuku.pl
 harimanga.com
 harthnir.com
@@ -1198,6 +1198,7 @@ jeremybai.com
 jeuxmangas.net
 jflee.co
 jinmenmanga.online
+jiocinema.com
 jkanime.net
 jnovels.com
 joepesky.com
@@ -1898,6 +1899,7 @@ meusmangas.net
 mewatch.sg
 mfteam.fr
 mganimes.com.br
+midnightpulp.com
 midtowncomics.com
 mierukochan.online
 milkyfusion.com
@@ -1920,6 +1922,7 @@ modao-zushi.fandom.com
 moemoe-fansub.blogspot.com
 monster-manga.online
 morenovel.net
+movieswatch.store
 movieweb.com
 mrag.wordpress.com
 mtencodes.blogspot.com
@@ -1979,6 +1982,7 @@ nexoscans.com
 nexusmods.com
 nforo.net
 ngembed-manga.blogspot.com
+nhk.or.jp
 ni-tian-xie-shen-against-the-gods.fandom.com
 niadd.com
 nichegamer.com
@@ -2420,6 +2424,7 @@ turkanime.co
 tutorialistoohard.com
 tvhland.com
 tvkissanime.com
+tvnz.co.nz
 uafansub.com
 ubelblatt.fr
 ultimate-manga.com
@@ -2434,6 +2439,7 @@ unixmanga.com
 unlibromanga.blogspot.com
 unseen-japan.com
 uzumaki-manga.online
+v3-kickassanime.pages.dev
 vagabond-manga.online
 vagmanga.com
 vam.ac.uk
@@ -2591,6 +2597,7 @@ yenpress.com
 yeppuu.com
 yidio.com
 yilinwang.com
+ymovies.top
 yonderstory.com
 yualexius.com
 yugenanime.tv
