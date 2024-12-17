@@ -1,5 +1,5 @@
 # ani-manga-blocklist
-The biggest, most complete and refined blocklist (anime+manga+novels) you will find on the net.
+The biggest, most complete and refined blocklist (anime+manga+novels) you will find on the net (~4200 unique domains).
 It's meant to be used for DNS content filternig, but you can adapt it otherwise as well.
 
 
