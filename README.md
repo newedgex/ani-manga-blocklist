@@ -1,6 +1,6 @@
 # ani-manga-blocklist
-The biggest, most complete and refined blocklist you will find on the net.
-It's meant to be used for DNS content filternig, but you can adapt it otherwise as wel.
+The biggest, most complete and refined blocklist (anime+manga+novels) you will find on the net.
+It's meant to be used for DNS content filternig, but you can adapt it otherwise as well.
 
 
 # I want to contribute (website is not on the list)
