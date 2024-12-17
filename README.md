@@ -1,6 +1,6 @@
 # ani-manga-blocklist
-2 blacklists / blocklists containing only the domains for content filtering , which is currently missing since I didn't find anything while searching for it.
-Feel free to contribute
+The biggest, most complete and refined blocklist you will find on the net.
+It's meant to be used for DNS content filternig, but you can adapt it otherwise as wel.
 
 
 # I want to contribute (website is not on the list)
@@ -12,5 +12,4 @@ cat list.txt | sort -u > newlist.txt
 To make sure that the domains are sorted and unique.
 
 # Which list should I be using?
-I'd go with refined-blacklist.txt which is hand checked, and that's the one you should contribute as well.
-In cae you want to go big, you can also use the joined blacklist.
+refined-blacklist.txt - which is maintained and refined through AI and also manually checked
