@@ -47,6 +47,7 @@
 1lib.sk
 1manga.co
 1piecemanga.com
+1st-kissmanga.net
 1st-kissmanga.online
 1stkissanime.com
 1stkissmanga.io
@@ -727,6 +728,7 @@ artistunknown.info
 artmug.kr
 artstation.com
 artwork.thekvt.eu.org
+arvencomics.com
 ascomaxx.com
 asdfjkl.github.io
 ashimanga.online
@@ -1252,6 +1254,7 @@ f-w-o.com
 f95zone.to
 faceoffdb.com
 faceyourmanga.com
+factmanga.com
 fakku.net
 famitsu.com
 fan-manga-dbz.com
@@ -2496,12 +2499,15 @@ luciferanimes.com
 luciferdonghua.in
 luciferdonghua.one
 luciferdonghua.org
+luffymanga.com
 luffymanga.online
 luminousscans.net
 lumitoon.com
 lunarscan.org
 luoxiaohei.fandom.com
+luxmanga.com
 luxmanga.net
+lynxscans.com
 m-p.sakura.ne.jp
 m.meownime.ai
 m06.kotbc2.com
@@ -2510,6 +2516,7 @@ m82.kowatcha.com
 m82.watchakr.com
 mabui-onna.com
 machinenano.com
+madaradex.org
 made-in-abyss-manga.com
 made-in-asia.nl
 maggiesensei.com
@@ -2689,6 +2696,7 @@ manganelo.tv
 manganews.net
 manganime.comuv.com
 manganitaku.me
+manganto.com
 manganyaa.com
 mangaoh.co.jp
 mangaon.org
@@ -2790,6 +2798,7 @@ mangaworldadult.net
 mangaxyz.com
 mangayeh.com
 mangaz.com
+mangazin.org
 mangazoneapp.com
 mangazoro.com
 manhastro.com
@@ -3359,6 +3368,7 @@ readhxh.com
 readjujutsu.com
 readjujutsukaisen.com
 readkingdom.com
+readkomik.com
 readlightnovel.me
 readlightnovel.meme
 readlightnovels.net
@@ -3657,6 +3667,7 @@ suryatoon.com
 sushiscan.net
 suwatte.app
 suwatte.mantton.com
+suwayomi.org
 swatmanhua.com
 sweet-project.nyan-nyanko.com
 swirt.github.io
@@ -3784,8 +3795,10 @@ toon69.com
 toonamiaftermath.com
 toonamiremastered.com
 toonbaba.site
+toonchill.com
 toondex.net
 toonfr.com
+toongod.org
 toonhub4u.net
 toonily.com
 toonily.net
