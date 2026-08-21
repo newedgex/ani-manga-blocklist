@@ -11,24 +11,33 @@ cat list.txt | sort -u > newlist.txt
 ```
 To make sure that the domains are sorted and unique.
 
-# Which list should I be using?
-refined-blacklist.txt - which is maintained and refined through AI and also manually checked
+# Repository Structure
+- `refined-blacklist.txt`: Maintained and refined blocklist (AI + manual checks).
+- `src/`: Python utilities (`git-scrapper.py`, `url-scrapper.py`, `open-domains.py`).
+- `lists/`: Supplementary and generated blocklists (`joined-blacklist.txt`, `big-anime-blacklist.txt`, `android.txt`, etc.).
 
 # Utilities
-- url-scrapper.py
-It's a script used to scrap URL's from a main site with very good options :
-  - Multi-threaded
-  - You can specify the depth of scan for the internal links
-  - It supports verbose mode where it logs all internal links and external ones
-  - Supports an "exclude" --ignore-file option where you can specify the domains to be ignored from the scan
-  - It has good error handling
-  - It saves the crawled external domains into an output file with a DNS-compatible format (--output)
+- `src/git-scrapper.py`
+  Scrapes source repositories for domains and merges them with `refined-blacklist.txt`.
+  ```bash
+  python src/git-scrapper.py
+  ```
 
-Example : 
-```
-python url-extractor.py wotaku.wiki --depth 3 --output links.txt --ignore-file nocrawl.txt -v
-```
-To work it needs python-beautifulsoup4 and python-requests libraries.
+- `src/url-scrapper.py`
+  A multi-threaded script to scrape external URLs from a given site:
+  - You can specify depth of scan for internal links (`--depth`)
+  - Supports verbose mode (`-v`)
+  - Supports ignore files (`--ignore-file`)
+  - Saves crawled external domains (`--output`, defaults to `lists/external_domains.txt`)
 
-- open-domains.py
-A small utility used to manually verify the generated output by opening the links 20 by 20.
+  Example:
+  ```bash
+  python src/url-scrapper.py wotaku.wiki --depth 3 --output lists/links.txt --ignore-file nocrawl.txt -v
+  ```
+  Requires `beautifulsoup4` and `requests`.
+
+- `src/open-domains.py`
+  A utility to manually verify domains by opening them in Brave browser in batches.
+  ```bash
+  python src/open-domains.py lists/extracted_domains.txt
+  ```
