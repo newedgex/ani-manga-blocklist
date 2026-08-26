@@ -74,7 +74,6 @@
 1stkissmanga.org
 1stkissnovel.org
 1xanimes.in
-1zumii.github.io
 2.mintmanga.one
 20.allhen.online
 2024manga.com
@@ -102,7 +101,6 @@
 3d.nicovideo.jp
 3hentai.net
 3xyaoi.com
-43d.github.io
 493d.com
 49zyw.com
 4anime.best
@@ -239,7 +237,6 @@ account.nicovideo.jp
 acervohentai.com
 acg.rip
 acgnx.se
-ack72.github.io
 acomics.ru
 adkami.com
 admin.hq-now.com
@@ -262,14 +259,12 @@ agscomics.com
 ah-img.luscious.net
 ahottie.top
 aidn.jp
-aidoku.app
 aidoru-online.me
 aifu2x.udp.jp
 aifuxl.com
 ajinmanga.online
 aka.ms
 akaicomic.org
-akari-psi.vercel.app
 akata.fr
 akatzuki.fullboards.com
 akaya.io
@@ -286,7 +281,6 @@ akumanotenshi.com
 alafista.com
 alandal.com
 alexmaven.com
-algunanime.blogspot.com
 aliceoseman.com
 alist.thdisc.tk
 all-wish.me
@@ -313,22 +307,18 @@ alurasworld.cerestia.net
 alurasworld.metropoliglobal.com
 amalgam-fansubs.moe
 amangaplanet.com.tr
-amanteanime.blogspot.com
 amarullz.com
 amatsukaze.rl404.com
 amiami.com
-amiaopensource.github.io
 aminoapps.com
 amvhell.com
 amvnews.ru
 amvstr.me
-an0ncer.github.io
 an1me.io
 anacreondjt.gitlab.io
 anchira.to
 anderer.moe
 android2026.zazhimi.net
-androidvisualnovels.blogspot.com
 androidvisualnovels2.wordpress.com
 angelfairies.awardspace.com
 angelfire.com
@@ -401,8 +391,6 @@ anime-sharing.com
 anime-skip.com
 anime-stats.net
 anime-story.com
-anime-subtitle-player.vercel.app
-anime-ticonofansub.blogspot.com
 anime-ticonofansub.foroactivo.net
 anime-tourism.jp
 anime-town.com
@@ -440,11 +428,9 @@ animebahu.top
 animebalkan.gg
 animebalkan.org
 animebathscenewiki.com
-animebeeto.blogspot.com
 animebits.moe
 animeblogger.net
 animeblogz.com
-animebook.github.io
 animeboston.com
 animebox.org
 animeboy.org
@@ -484,7 +470,6 @@ animeforums.net
 animefox.fun
 animefox.in
 animefox.mobi
-animefoxbrasil.blogspot.com
 animefreak.to
 animefreak.tv
 animefreak.video
@@ -554,7 +539,6 @@ animemusicvideos.org
 animemusicvids.net
 animenana.com
 animenano.com
-animenerdz.blogspot.com
 animenewsnetwork.com
 animenexus.net
 animenexus.tv
@@ -564,7 +548,6 @@ animenosub.to
 animenova.jp
 animenow.to
 animension--v8.pages.dev
-animentodadescarga.blogspot.com
 animeobt.xyz
 animeology.in
 animeomega.com
@@ -611,7 +594,6 @@ animeshouse.app
 animeshoy12.com
 animesigma.com
 animesimp4u.com
-animesite2.blogspot.com
 animesnacional.com
 animesonglyrics.com
 animesongs.org
@@ -711,7 +693,6 @@ anipulse.to
 anirena.com
 anirrent.fansubs.com.br
 anisaga.org
-anisaki.vercel.app
 anisascans.in
 anisearch.com
 anisearch.de
@@ -719,7 +700,6 @@ anison.fm
 anisongdb.com
 anissia.net
 anisuge.to
-anisun.vercel.app
 anisync.live
 anitabi.cn
 anitaku.bz
@@ -795,7 +775,6 @@ anunico.com
 anunico.com.ar
 anunico.us
 anxworld.net
-anymex.vercel.app
 anyonemanga.com
 anzmanga25.com
 anzmangashd.com
@@ -864,6 +843,8 @@ api.mangadex.org
 api.mangaflix.net
 api.mangahona.pl
 api.mangalib.me
+api.mangalivre.org
+api.mangamelon.com
 api.mangarawgo.site
 api.mangotoons.com
 api.maozyapi.com
@@ -949,11 +930,10 @@ apotheosis-manga.fandom.com
 app.ninekon.com
 app.novelcool.com
 appcn.baozimh.com
+appgb.baozimh.com
 apps.webtoons.com
-aqiu384.github.io
 aqstream.com
 aqua-manga.com
-aquafina-water-bottle.github.io
 aquamanga.lat
 aquamanga.org
 aquareader.org
@@ -969,7 +949,6 @@ aralosbd.fr
 aranafansub.mforos.com
 araznovel.com
 arbxcomix.com
-arbyste.github.io
 arc-relight.com
 arcanescans.com
 arcanetranslations.com
@@ -978,7 +957,6 @@ archive.4plebs.org
 archive.palanq.win
 archive.ragtag.moe
 archived.moe
-archiveofourown.org
 archiviumbar.com
 arcurafansub.com
 arenascan.com
@@ -1005,7 +983,6 @@ artstation.com
 artwork.thekvt.eu.org
 arvencomics.com
 ascomaxx.com
-asdfjkl.github.io
 ashimanga.online
 asiadreamradio.torontocast.stream
 asialotuss.com
@@ -1160,7 +1137,6 @@ bilingualmanga.org
 bilinovel.com
 billboard-japan.com
 bimiacg10.net
-binillamangas.blogspot.com
 bionus.org
 birthdaybff.com
 bit.ly
@@ -1224,7 +1200,6 @@ booru.funmaker.moe
 booru.org
 booru.pixiv.pics
 booru.plus
-booru.vercel.app
 booth.pm
 boratscans.com
 boroboro.neocities.org
@@ -1269,8 +1244,8 @@ byliner.com
 bymichiby.com
 bypass.city
 bzmh.org
+c-nd2-1.6wm.top
 c4.japscan.foo
-caballerosdelzodiacoblog.blogspot.com
 cache2-ebookjapan.akamaized.net
 cademcniven.com
 cafecomyaoi.com.br
@@ -1299,15 +1274,12 @@ carteldemanhwas.com
 cartoon18.com
 cartooncrazy.uno
 cartooniverse.co.uk
-casvt.github.io
 cat-300.com
-cat-milk.github.io
 catalog.mokuro.moe
 catalog.neet.tv
 catalog.ono.live
 catastrophicnecromancer.com
 catharsisworld.dig-it.info
-catharticgroup.blogspot.com
 catzaa.net
 cbr.com
 cc.edatribe.com
@@ -1393,7 +1365,6 @@ chia-anime.me
 chia-anime.su
 chiaki.site
 chikari.moe
-chikyaoi.blogspot.com
 chinawhisper.com
 chineseanime.vip
 chineseanimeonline.website
@@ -1453,7 +1424,6 @@ colamanga.com
 collabo-cafe.com
 collect.wolongzyw.com
 collectedcurios.com
-collectionchamber.blogspot.com
 collegecandy.com
 colorcitoscan.com
 com-x.life
@@ -1606,11 +1576,9 @@ dahu3.xyz
 daily-manga.net
 dailysuka.com
 daisy.org
-daiyamangas.blogspot.com
 daki.info
 dakidex.com
 damconuong.sbs
-damiansh.github.io
 damnreincarnation.com
 danbooru.donmai.us
 dandadanmanga.org
@@ -1660,7 +1628,6 @@ deathtollscans.net
 deatte5.com
 decrypted.location.st
 deezer.com
-degoedel.github.io
 dejapan.com
 dekudeals.com
 delitoon.com
@@ -1692,7 +1659,6 @@ dgtread.com
 diamondfansub.com
 dic.pixiv.net
 dick.xfani.com
-digimondatasquadblog.blogspot.com
 digital.darkhorse.com
 digitalcomicmuseum.com
 digitallydownloaded.net
@@ -1712,7 +1678,6 @@ divedigital.id
 divinedaolibrary.com
 divxonline.info
 diziwatch.net
-djtguide.github.io
 djtguide.neocities.org
 dkolf.de
 dl-raw.ac
@@ -1729,11 +1694,13 @@ dm530w.org
 dmhy.org
 dmpbooks.com
 dmzj.com
+dobynovels.com
 doc.rust-lang.org
 docchi.pl
 dociy.net
 docln.net
 docs.mitmproxy.org
+docs.opencv.org
 docs.renovatebot.com
 doctruyen3qhub.vip
 dogguie.com
@@ -1749,7 +1716,6 @@ domesticnakanojo.net
 donghuanosekai.com
 dongmanmanhua.cn
 dongsub.com
-donkuri.github.io
 donmai.moe
 dontyoushushme.com
 doodmanga.com
@@ -1801,6 +1767,7 @@ dresdencodak.com
 dressdarling.com
 dressupdarlings.online
 drm.cdn.nicomanga.jp
+drm\\.cdn\\.nicomanga\\.jp
 droidgamers.com
 drstone.online
 drstonescan.com
@@ -1824,10 +1791,8 @@ dvddownload.nl
 dw-anime.net
 dxp-system.docomo.ne.jp
 dynasty-scans.com
-dzfansub.blogspot.com
 e-douwa.com
 e-hentai.org
-e-hentaitagsearch.blogspot.com
 e-kitaplar.com
 e-muse.com.tw
 e-shuushuu.net
@@ -1883,7 +1848,6 @@ ellotl.com
 elmejoranime.com
 elmejoranime.org
 elovemanga.one
-elrincondelkitsuneneo2-0.blogspot.com
 elrincondelmanga.com
 elsexoforo.com
 emaqi.com
@@ -1905,7 +1869,6 @@ en.ninemanga.com
 en.taotu.org
 en.touhouwiki.net
 en.webnovel.com
-en.wikipedia.org
 en.xchina.co
 enanime.com
 encmakrlmutvsdzpodov.supabase.co
@@ -2147,7 +2110,6 @@ gakamangas.com
 gakiarchives.com
 galaxymanga.io
 galaxynovels.com
-galaxyteamhigh.blogspot.com
 galeon.com
 galinhasamurai.com
 gamcore.com
@@ -2568,7 +2530,6 @@ gotei-scantrad.com
 gourmetsupremacy.com
 goyabu.com
 goyabu.vip
-gqgs.github.io
 grabber.zone
 graphql.voyce.me
 gravureidols.top
@@ -2579,7 +2540,6 @@ gremorymangas.com
 grimscans.com
 grrlpowercomic.com
 grupa-mirai.pl
-grupodinamo.blogspot.com
 gttradio.com
 guardsquare.com
 guavaread.com
@@ -2625,6 +2585,7 @@ hanakokunscans.online
 hanamiheaven.org
 hanayume.com
 hanenoakari.com
+hangulplanet.com
 hanime.tv
 hanime1.me
 hanimeone.me
@@ -2659,7 +2620,6 @@ helscans.com
 hemdomblog.com
 hennojin.com
 hennoveltranslations.com
-henshingrid.blogspot.com
 hentag.com
 hentai-archive.com
 hentai-cosplay-xxx.com
@@ -2733,7 +2693,6 @@ hianime.nz
 hianime.sx
 hianime.to
 hianime.tv
-hiatus-hiatus.github.io
 hiddenleaf.to
 hidive.com
 highschool-dxd.com
@@ -2754,7 +2713,6 @@ hispanime-team.com
 hispanime.co.cc
 hispanimeradio.mypodcast.com
 hitomi.la
-hitomitagsearch.blogspot.com
 hivetoon.com
 hivetoons.org
 hiveworkscomics.com
@@ -2803,7 +2761,6 @@ howlongtobeat.com
 howtodrawmanga.com
 howtofightscans.com
 hq-now.com
-hritikvaishnav.github.io
 hshop.erista.me
 hstream.moe
 hszy.me
@@ -2821,9 +2778,9 @@ hxhmanga.online
 hyacinthbloom.com
 hyakanime.fr
 hyakuro.net
-hydrusnetwork.github.io
 i0.wp.com
 i2.wp.com
+i\d+\.wp\.com
 iamscum.wordpress.com
 ichi.moe
 ichicomi.com
@@ -2833,7 +2790,6 @@ id.mgkomik.cc
 id.mtlnovels.com
 idmzj.com
 idol.gravureprincess.date
-idolanime.blogspot.com
 idpf.org
 iflix.com
 ifreedom.su
@@ -2877,6 +2833,7 @@ img.softdevices.my.id
 img.uuss.uk
 img.wenku8.com
 img4.qy0.ru
+img\.mantrazscan\.co
 imgsh.dm365.top
 imgx.mghcdn.com
 imhentai.xxx
@@ -2917,7 +2874,6 @@ insanoslibrary.com
 insidescanlation.com
 inventariooculto.com
 invidious.io
-inviteroute.github.io
 ippotranslations.com
 iq.com
 iqdb.org
@@ -2952,14 +2908,12 @@ j-subculture.com
 j1.jfimv2.xyz
 j2.jfimv2.xyz
 j4.jfimv2.xyz
-jaded-encoding-thaumaturgy.github.io
 jaiminisbox.net
 jajanken.net
 jaomix.ru
 japan-paw.net
 japanese-manga-artist.com
 japanese-manga.com
-japanesepccompendium.blogspot.com
 japanesetease.net
 japanesewithanime.com
 japanpowered.com
@@ -2978,11 +2932,9 @@ javhd.icu
 javlibrary.com
 javseen.tv
 jcomic.net
-jeanslack.github.io
 jefusion.com
 jeniusplay.com
 jenova-project.com
-jensechu.github.io
 jeremybai.com
 jestful.net
 jetanimes.com
@@ -3038,13 +2990,11 @@ jumpg-api.tokyo-cdn.com
 jumpg-webapi.tokyo-cdn.com
 junglejuicewebtoon.com
 junglejuicewebtoon.fandom.com
-junheah.github.io
 justlightnovels.com
 jut.su
 juxiaoshuo.net
 jw-webmagazine.com
 jyzyapi.com
-kaaes.github.io
 kaas.ro
 kaas.to
 kabusmanga.com
@@ -3095,14 +3045,11 @@ kaynscan.org
 kayoanime.com
 kazefuri.net
 kazokuden.com
-kdonc.github.io
 kdramahood.com
 kdtnovels.net
 kebbie.itch.io
 kefkagantzmanga.iespana.es
 keiichianimeforever.com
-keiyoushi.github.io
-kellenok.github.io
 kellydownloader.com
 kemono.cr
 kemono.pro
@@ -3114,7 +3061,6 @@ kenmei.co
 keopitranslations.com
 kewnscans.org
 keylabo.com
-khaitruong922.github.io
 khinsider.com
 khomanhwa.com
 ki-oon.com
@@ -3152,7 +3098,6 @@ kickassanimes.com
 kickassanimes.info
 kickassanimes.ru
 kickasssanime.com
-killergerbah.github.io
 killsixbilliondemons.com
 kimcartoon.cam
 kimcartoon.li
@@ -3531,6 +3476,7 @@ kuramanga.com
 kuramanime.red
 kuriname.com
 kuroimanga.best
+kuroimanga.site
 kuroiru.co
 kuromanga.id
 kuromangas.com
@@ -3545,7 +3491,6 @@ kusowanka.com
 kxgav.com
 kyuutsui.com
 l66va7452h-dsn.algolia.net
-la-mosca-cojonera.blogspot.com
 la-nasa.com
 laboratoriopokemon.servermh.net
 ladyestelarscan.com.br
@@ -3553,7 +3498,6 @@ lagoonscans.com
 laguaridax.com
 lamangaspain.com
 lanhlungteam2.top
-lanochedeloscaidos.blogspot.com
 lanortrad.com
 lanovels.com
 laoyazy.com
@@ -3618,7 +3562,6 @@ lermangasonline.info
 leshizyapi.com
 leslie-victims.pages.dev
 lesporoiniens.org
-letsanime.blogspot.com
 letv.im
 leveling-solo.net
 leveling-solo.org
@@ -3626,7 +3569,6 @@ levelingwithgods.com
 leviatanscans.com
 leviathanmanga.com
 lewdcorner.com
-leyendomangas.blogspot.com
 lezhinus.com
 lh3.googleusercontent.com
 lhtranslation.net
@@ -3693,8 +3635,6 @@ lncave.app
 lndb.info
 lnmtl.com
 lnori.com
-lnreader.github.io
-lnrelease.github.io
 loadingartist.com
 lokiwebcams.com
 lookism.me
@@ -3702,11 +3642,11 @@ lookismscans.online
 looksim.online
 looper.com
 loppytoon.com
-losmejoresmangasdelahistoria.blogspot.com
 lost-slayers.net
 lostty.wordpress.com
 lotienetodo.com.ar
 love4u.net
+lovelyblossoms.com
 loverstoon.com
 lrr.tvc-16.science
 lscans.com
@@ -3783,7 +3723,6 @@ makima.xyz
 makimaaaaa.com
 makineceviri.xyz
 mal-badges.com
-mal-to-kodik.github.io
 malscraper.azurewebsites.net
 malsync.moe
 malupdaterosx.moe
@@ -4028,7 +3967,6 @@ mangakuro.net
 mangakusu.com
 mangakyo.vip
 mangalami.com
-mangalandia.blogspot.com
 mangalect.org
 mangalecture.com
 mangalecture.free.fr
@@ -4045,9 +3983,9 @@ mangalivre.tv
 mangalix.com
 mangalogy.com
 mangaluxe.com
-mangamaisanime.blogspot.com
 mangamaniacs.org
 mangamaxblog.wordpress.com
+mangamelon.com
 mangamen.com
 mangamew.co
 mangamirai.com
@@ -4104,7 +4042,6 @@ mangaplanet.com
 mangaplaza.com
 mangaplus-creators.jp
 mangaplus.shueisha.co.jp
-mangaplustracker.github.io
 mangapoisk.live
 mangapoisk.me
 mangaprod.com
@@ -4311,6 +4248,7 @@ manhwazone.com
 manjanoon.org
 manonepunch.com
 manta.net
+mantrazscan.co
 mantrazscan.com
 manwa.me
 manwass.cc
@@ -4327,7 +4265,6 @@ marriageconvenience.com
 martial-god-asura.fandom.com
 martial-world.fandom.com
 martialpeak.net
-maruchino-editormanga.blogspot.com
 marvel.com
 marvelguides.com
 massnovel.fr
@@ -4340,7 +4277,6 @@ mavanimes.co
 maxcdn.bootstrapcdn.com
 maxlevelscan.com
 mayochuu.xyz
-mayudev.github.io
 mcanime.net
 mccms.cn
 mdrss.tijlvdb.me
@@ -4440,7 +4376,6 @@ mirror1.com
 mirror2.com
 miru-repo.0n0.dev
 miru-wenku8.wol.moe
-miru.js.org
 miru.watch
 miruro.com
 miruro.io
@@ -4473,7 +4408,6 @@ modao-zushi.fandom.com
 moduzy.vip
 moe.suicaodex.com
 moelist.net
-moemoe-fansub.blogspot.com
 moetruyen.net
 moeview.app
 moeview.pages.dev
@@ -4482,7 +4416,6 @@ mokuro.moe
 momon-ga.com
 momonohanascan.com
 momovod.app
-monkonius.github.io
 monochromecms.netlify.app
 monomanga.com.tr
 monopolymanhua.com
@@ -4498,7 +4431,6 @@ mora.jp
 morenovel.net
 moriyashrine.org
 morphinlegacy.com
-mortii.github.io
 mostnovel.com
 mov3.co
 movieku.lol
@@ -4510,7 +4442,6 @@ mrag.wordpress.com
 mrtenzus.com
 msnii.com
 mtav.art
-mtencodes.blogspot.com
 mtl-novel.com
 mtlfanfic.com
 mtlnovel.com
@@ -4603,7 +4534,6 @@ naruto-one.com
 narutoforums.com
 narutoget.info
 narutosasuke.es
-narutoshippuden-animega.blogspot.com
 narutost.free.fr
 narutouy.fullboards.com
 natalie.mu
@@ -4657,14 +4587,12 @@ nexoscans.com
 nexusmods.com
 nexusscanlation.com
 nforo.net
-ngembed-manga.blogspot.com
 nhattruyenqq.com
 nhentai.com
 nhentai.net
 nhentai.to
 nhentai.xxx
 nhentaiclub.online
-nhentaitagsearch.blogspot.com
 nhk.or.jp
 ni-tian-xie-shen-against-the-gods.fandom.com
 niadd.com
@@ -4706,9 +4634,9 @@ notrealscans.org
 notrealsource.org
 novamanhwa.cc
 novel-home.com
-novel-indx.vercel.app
 novel-lucky.com
 novel-room.com
+novel-short.com
 novel.ovh
 novel.plus
 novel.tl
@@ -4820,14 +4748,12 @@ ojoutobankenkun.online
 okami-subs.pl
 okamimiost.com
 okanime.tv
-okazu.blogspot.com
 oktoon.com
 okuha.com
 okuroku.com
 okutoon.com
 okyykomik.my.id
 olaoe.cyou
-oldcomicsworld.blogspot.com
 oldgamesdownload.com
 olevod.com
 olevod1.com
@@ -4836,7 +4762,6 @@ olympusscanlation.com
 olympustaff.com
 olympusxyz.com
 omegascans.org
-omegascans.vercel.app
 omiai-dakimakura.com
 omicaso.org
 omniscient-readersviewpoint.com
@@ -4910,14 +4835,12 @@ otakuharbor.com
 otakuinternational.com
 otakujournalist.com
 otakukingdom-subs.de
-otakulogy.github.io
 otakulounge.com
 otakumatsuri.com.ar
 otakumode.com
 otakunews.com
 otakunobaires.com.ar
 otakuokashi.tumblr.com
-otakuplaneta.blogspot.com
 otakurevolution.com
 otakusic.com
 otakusnotes.com
@@ -4971,7 +4894,6 @@ pekadores.com
 penana.com
 penguin-squad.com
 peppercarrot.com
-perdition-japanese.github.io
 perf-scan.xyz
 perfect-world-novel.fandom.com
 petrotechsociety.org
@@ -4997,7 +4919,6 @@ picsarchive1.b-cdn.net
 picsh.77dm.top
 piece.metaanimesh.workers.dev
 pinchala.cl
-pink-bunnys.blogspot.com
 pink.vido.lol
 piped.video
 pipedapi.kavin.rocks
@@ -5008,11 +4929,9 @@ pishaachini.com
 pitch-demo.migaku.io
 piunikaweb.com
 pixelsconverter.com
-pixeval.github.io
 pixhentai.com
 pixiv.cat
 pixiv.download
-pixiv.js.org
 pixiv.navirank.com
 pixiv.net
 pixiv.pics
@@ -5020,7 +4939,6 @@ pixiv.re
 pixivfe.drgns.space
 pixivision.net
 pixslam.com
-piyokomangasdd.blogspot.com
 pizzariacomics.com
 pkmn.help
 planetadasolidao.queroumforum.com
@@ -5039,7 +4957,6 @@ plumacomics.cloud
 plumworkshop.com
 pluto.tv
 pmatehunter.com
-pmcdonough8133.github.io
 pocket.shonenmagazine.com
 pocketcomics.com
 poipiku.com
@@ -5088,7 +5005,9 @@ psy1.komik.im
 pt.mtlnovels.com
 pub.moleve.net
 public-api.wordpress.com
+puffinfolio.com
 punchkorea.com
+pure-skill.pages.dev
 puretoons.site
 purl.org
 purperendraak.nl
@@ -5113,7 +5032,6 @@ quizexpo.com
 quotetheanime.com
 quotev.com
 r-a-d.io
-r-roms.github.io
 r1.onlinemanga.xyz
 r1.richtoon.top
 r18.mangaz.com
@@ -5276,7 +5194,6 @@ reaperscans.com
 reaperscans.fr
 reapertrans.com
 rebirth-of-the-urban-immortal-cultivator.fandom.com
-recloudstream.github.io
 recochoku.jp
 recommendmeanime.com
 record-ragnarok.com
@@ -5301,7 +5218,6 @@ rematanime.com
 renascans.net
 renovels.org
 renzoanimefan.files.wordpress.com
-repodevil.vercel.app
 request.url.host
 requiemtls.com
 res.pawread.com
@@ -5384,7 +5300,6 @@ ryumanga.org
 ryuugames.com
 s-morishitastudio.com
 s.to
-s0hv.github.io
 s1.cdnimg.me
 s1.imagehub.cc
 s11.ax1x.com
@@ -5437,6 +5352,7 @@ saucekudasai.com
 saucemanhwa.com
 saucenao.com
 sayhentai.cx
+saymanhwa.com
 saytongtaii.site
 sb.mbcdn.xyz
 scan-fr.cc
@@ -5516,7 +5432,6 @@ sereinscan.com
 series-anime.com
 serimanga.com
 server.elscione.com
-sethclydesdale.github.io
 setsuscans.com
 setteidreams.net
 sevenseasdanmei.com
@@ -5524,7 +5439,6 @@ sevenseasentertainment.com
 sevenseaswebtoons.com
 sewozyapi.com
 sextb.net
-seyden.github.io
 sezy.website
 sfbok.se
 sflix.to
@@ -5556,7 +5470,6 @@ shirodoujin.com
 shiroi-fansubs.de
 shiroko.co
 shiza-project.com
-shojomiaka.blogspot.com
 shokoanime.com
 shonenjump.com
 shonenjumpplus.com
@@ -5564,11 +5477,9 @@ shorturl.at
 shosekiranking.blog.fc2.com
 shosetsuorg.gitlab.io
 shoujoai.com
-shoujomangacolections.blogspot.com
-shoujopuntoar.blogspot.com
 shueisha.co.jp
 shupogaki.moe
-sigma6gijoe.blogspot.com
+siikomik.id
 siikomik.net
 silentquill.net
 siliconera.com
@@ -5684,6 +5595,7 @@ st1.hosbb.com
 starcomics.com
 starfruitbooks.com
 starligthscan.com
+starzmanga.com
 static-lvlt.xhcdn.com
 static-ss.xnxx-cdn.com
 static-ss.xvideos-cdn.com
@@ -5705,15 +5617,12 @@ storage-charlie.cuutruyen.net
 storage-ct.lrclib.net
 storage.lunaranime.ru
 storyseedling.com
-strawberrylilies.blogspot.com
 strayfansub.net
 stream.mkvdrama.org
 streaming-integrale.com
 streaming-scan-otaku-manga.over-blog.com
 streamtape.com
-stremio-addon-manager.vercel.app
 stt16bit.wixsite.com
-subarashii-no-fansub.github.io
 sublimemanga.com
 submanga.com
 submanhwa.com
@@ -5760,7 +5669,6 @@ swatscans.com
 sweet-project.nyan-nyanko.com
 sweetescapetranslations.com
 sweetscan.net
-swirt.github.io
 swordmastersyoungestson.com
 swordscomic.com
 syosetu.com
@@ -5791,7 +5699,6 @@ tapvity.com
 tarotscans.com
 tatakaescan.com
 tatsumoto.neocities.org
-taulazer.github.io
 tauonmusicbox.rocks
 taurusfansub.com
 tbib.org
@@ -5814,7 +5721,6 @@ teamxnovel.com
 teanovel.com
 techshout.com
 tecnoscann.com
-tediofansub.blogspot.com
 teemii.io
 teenagemercenary.com
 temp.compsci88.com
@@ -5833,11 +5739,9 @@ test.niadd.com
 tfw2005.com
 thatnovelcorner.com
 the-dere-types.fandom.com
-the-dreams-of-manga.blogspot.com
 the-true-tropes.fandom.com
 theakiba.com
 theapothecarydiaries.com
-thebedrockblog.blogspot.com
 thebiem.com
 theblank.net
 thecasestudyofvanitas.online
@@ -5855,12 +5759,9 @@ themesia.com
 themesinfo.com
 themushokutensei.com
 thenerddaily.com
-thenetsky.github.io
 thenewsify.com
 theoasg.com
-theparadiseofmanga.blogspot.com
 thepopverse.com
-theprojectmanga.blogspot.com
 thepylori.com
 thetalesofdemonsandgods.com
 thetruejapan.com
@@ -5904,7 +5805,6 @@ to-corona-ex.com
 to.to-long.com
 todaymanga.com
 todoanimes.com
-todomangatakanari.blogspot.com
 todoomangas.com
 tofugu.com
 tokimeki.fr
@@ -5917,11 +5817,9 @@ tokuzilla.net
 tokuzl.net
 tokyo-revengers.co
 tokyo-revengersmanga.com
-tokyodross.blogspot.com
 tokyoghoul.xyz
 tokyoinsider.com
 tokyopop.com
-tokyoreanimes.blogspot.com
 tokyorevenger.online
 tokyorevengersvf.com
 tokyotosho.info
@@ -5977,7 +5875,6 @@ toptruyenzone10.com
 tortuga-ceviri.com
 tortugaceviri.com
 total-manga.com
-totallyspiesblog.blogspot.com
 touhou-memories.com
 touhou-project.news
 touhou.ai
@@ -6023,6 +5920,7 @@ truyenqq.online
 truyenqqko.com
 truyensieuhay.com
 truyenss.com
+truyentini.net
 truyentranhdammyy.site
 truyentuoitho.com
 truyentvn.net
@@ -6094,7 +5992,6 @@ ultra.fandom.com
 ultramanconnection.com
 umaru.to
 umetruyenz.org
-unanimated.github.io
 unclefromanotherworld.com
 uncoached.com
 uncrowned.fandom.com
@@ -6103,14 +6000,12 @@ ungrounded.net
 unicomics.ru
 unifans.io
 unimay.media
-unime.vercel.app
 unionfansub.com
 uniquestream.net
 universalnovel.com
 universoanimes.com
 universohentai.com
 unixmanga.com
-unlibromanga.blogspot.com
 unlimited.waifu2x.net
 unpai.red
 unseen-japan.com
@@ -6154,7 +6049,6 @@ v3.voiranime.com
 v4.luvyaa.co
 v4api.zaimanhua.com
 v7.kiryuu.to
-vagabond-hiatus-chart.vercel.app
 vagabond-manga.online
 vagmanga.com
 valirscans.org
@@ -6167,7 +6061,6 @@ vanitasnocarte.com
 vanovel.com
 vapi.ezmanga.org
 vastmanga.com
-vastolordefansubbr.blogspot.com
 vchama.xyz
 vdm8.com
 veekun.com
@@ -6177,7 +6070,6 @@ vembx.one
 ver-anime.net
 ver.notasanime.me
 veranime.wordpress.com
-vercel.app
 vercomicsporno.com
 verdinha.wtf
 vermangasporno.com
@@ -6224,7 +6116,6 @@ vndb.org
 vnkeyfc.com
 vnmanga.com
 vnpocket.com
-vnrecs.github.io
 vnstat.net
 vocadb.net
 vocaloid-rankings.fly.dev
@@ -6447,6 +6338,7 @@ ww12.readonepiece.com
 ww12.readsnk.com
 ww12.tokyoghoulre.com
 ww2.mangafreak.me
+ww3.mangafreak.me
 ww3.readsololeveling.org
 ww6.readchainsawman.com
 ww6.readjujutsukaisen.com
@@ -6471,14 +6363,12 @@ xcomic.me
 xcomic.net
 xdcc.anidex.moe
 xdcc.kasumi.moe
-xelieu.github.io
 xfolio.jp
 xgcartoon.com
 xgmn8.vip
 xhamster.com
 xian-ni.fandom.com
 xiaowaz.fr
-xiaoyifang.github.io
 xidol.net
 xiutaku.com
 xkcd.com
@@ -6504,14 +6394,11 @@ xxblapingpong.cc
 xxl.hentaichan.live
 xxx.onlinemanga.xyz
 xxxyaoi.com
-xythh.github.io
 xyzcomics.com
 xz7.fstr-cdn.com
 xzcjz.com
 yabai.si
-yakimoshi.blogspot.com
 yakshacomics.com
-yaminoyukihime.blogspot.com
 yande.re
 yanmaga.jp
 yaoi-chan.me
@@ -6551,6 +6438,7 @@ yomonga.com
 yomou.syosetu.com
 yomovies.boats
 yomu.com.br
+yomu.tauruus.com
 yomumangas.com
 yonaber.com
 yonderstory.com
@@ -6594,26 +6482,21 @@ yurihub.com
 yurilab.top
 yurineko.net
 yurinekoz.com
-yurinoboke.blogspot.com
 yurionair.top
 yurizuki.net
 yutuzy.com
 yutuzy4.com
 yuukitls.com
-yuumanga.blogspot.com
 yymanhua.com
 yzzy.tv
-z411.github.io
 zagaruscans.metropoliglobal.com
 zagony.ru
 zahard.xyz
 zaimanhua.com
-zaratustraelmanga.blogspot.com
 zazamanga.com
 zazhimi.net
 zbato.org
 zebrack-comic.shueisha.co.jp
-zekozimo.blogspot.com
 zeldadungeon.net
 zelluloza.ru
 zenith-raincoat-5cf.notion.site
@@ -6639,7 +6522,6 @@ zinnovel.com
 ziperto.com
 ziyuan.skm3u8.com
 zokaj.com
-zona-azteca.blogspot.com
 zona-azteca.com.ar
 zonaanime.com
 zonamanga.com

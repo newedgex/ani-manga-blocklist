@@ -48,7 +48,7 @@ EXCLUDED_DOMAINS = {
     "cloudfront.net", "jsdelivr.net", "unpkg.com", "vercel.app",
     "shields.io", "ipify.org", "ddos-guard.net", "browserleaks.com",
     "imgur.com", "imgur.io", "ibb.co", "postimg.cc", "imgbox.com",
-    "krakenfiles.com", "wikimedia.org", "mixdrop.co", "flaticon.com",
+    "krakenfiles.com", "wikimedia.org", "wikipedia.org", "mixdrop.co", "flaticon.com",
     "dummyimage.com", "placehold.co", "shadcn.com", "weserv.nl",
     "w3.org", "schema.org", "json-schema.org", "apache.org",
     "opensource.org", "creativecommons.org", "kotlinlang.org",
@@ -182,7 +182,7 @@ def process_repositories():
                     domain = line.strip().lower()
                     if domain.startswith("www."):
                         domain = domain[4:]
-                    if domain and not domain.startswith("#"):
+                    if domain and not domain.startswith("#") and not is_excluded(domain):
                         all_domains.add(domain)
             print(f"   Loaded {len(all_domains)} initial domains from '{resolved_input}'.")
         except Exception as e:
