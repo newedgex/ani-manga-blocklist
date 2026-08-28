@@ -37,13 +37,13 @@ OUTPUT_FILE = os.path.join("lists", INPUT_FILE)
 # Exact match or subdomain match for legitimate platforms & CDNs
 EXCLUDED_DOMAINS = {
     "github.com", "github.io", "githubusercontent.com", "gitlab.com",
-    "google.com", "googleapis.com", "gstatic.com", "facebook.com",
-    "apple.com", "microsoft.com", "twitter.com", "x.com", "twimg.com",
-    "discord.gg", "discord.com", "discordapp.com", "reddit.com",
-    "telegram.org", "t.me", "bing.com", "ibm.com", "vk.com",
+    "google.com", "googleapis.com", "gstatic.com", "googlesource.com", "opensource.google",
+    "googleusercontent.com", "googletagmanager.com", "facebook.com", "apple.com", "microsoft.com",
+    "twitter.com", "x.com", "twimg.com", "discord.gg", "discord.com", "discordapp.com",
+    "reddit.com", "telegram.org", "t.me", "bing.com", "ibm.com", "vk.com",
     "dailymotion.com", "deviantart.com", "patreon.com", "ko-fi.com",
     "medium.com", "archiveofourown.org", "blogger.com", "blogspot.com",
-    "tiktok.com", "youtube.com", "youtu.be",
+    "tiktok.com", "youtube.com", "youtu.be", "media-amazon.com", "amazon.com",
     "cloudflare.com", "cloudflareclient.com", "fastly.net", "akamai.net",
     "cloudfront.net", "jsdelivr.net", "unpkg.com", "vercel.app",
     "shields.io", "ipify.org", "ddos-guard.net", "browserleaks.com",
