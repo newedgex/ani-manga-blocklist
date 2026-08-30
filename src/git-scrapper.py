@@ -56,7 +56,7 @@ EXCLUDED_DOMAINS = {
     "npmjs.com", "pypi.org", "maven.org", "gitee.com", "git-scm.com",
     "gradle.org", "npmmirror.com", "jitpack.io", "stackoverflow.com",
     "pkg.go.dev", "vitejs.dev", "protobuf.dev", "semver.org",
-    "eslint.org", "jsoup.org", "js.org", "wordpress.org",
+    "eslint.org", "jsoup.org", "js.org", "wordpress.org", "kobo.com",
     "opencollective.com", "openfontlicense.org", "contributor-covenant.org",
     "mobilelegends.com", "leagueoflegends.com", "themoviedb.org", "aidoku.app",
     "localhost", "127.0.0.1", "example.com", "android.googlesource.com",

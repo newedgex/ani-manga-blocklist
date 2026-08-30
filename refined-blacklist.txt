@@ -810,6 +810,7 @@ api.bukazyw.fun
 api.cdnlibs.org
 api.ciao.shogakukan.co.jp
 api.cloudkk-v1.xyz
+api.coffeemanga.shop
 api.comick.fun
 api.comicland.org
 api.comico.jp
@@ -1459,6 +1460,7 @@ comicaurora.com
 comicbookherald.com
 comicbookplus.com
 comicbookreadingorders.com
+comicbookstorage.fra1.cdn.digitaloceanspaces.com
 comicbooktreasury.com
 comicbookyeti.com
 comicborder.com
@@ -1506,6 +1508,7 @@ comix.to
 comix.ws
 comixextra.com
 comixology.com
+comixtopia.in.ua
 commitstrip.com
 community.suwatte.app
 conconada.com
@@ -1576,6 +1579,7 @@ dailysuka.com
 daisy.org
 daki.info
 dakidex.com
+damconuong.mobi
 damconuong.sbs
 damnreincarnation.com
 danbooru.donmai.us
@@ -1707,6 +1711,7 @@ dojin-music.info
 dojindb.net
 dojing.net
 dokiraw.beer
+dokiraw.space
 dokusho-ojikan.jp
 dokushoclub.com
 dom4lfansub.online
@@ -1747,6 +1752,7 @@ dragonholic.com
 dragonslayers.metropoliglobal.com
 dragontea.ink
 dragontranslation.org
+drakecomic.net
 drakecomic.org
 drakescans.com
 dramacool.bg
@@ -1773,6 +1779,7 @@ drunkenanimeblog.com
 dtruyen.com
 dtupscan.com
 dualeotruyencw.com
+dualeotruyenuv.com
 dubbedanime.biz
 dubolt.com
 due.moe
@@ -2695,6 +2702,7 @@ hidive.com
 highschool-dxd.com
 hijala.com
 hikariganai.xyz
+hikarinagi.org
 hikarinoakari.com
 hikaritv.xyz
 hikka.io
@@ -2816,6 +2824,7 @@ imagedelivery.net
 images.ficbook.net
 images.idmzj.com
 images.mangafreak.me
+imagesp.yurari.moe
 imanevilgod.com
 img-cdn.stackpathcdn.app
 img.4khd.com
@@ -3040,6 +3049,7 @@ kawaiifu.com
 kawaiimanga.org
 kawaitsumi.awardspace.com
 kaynscan.org
+kaynscans.com
 kayoanime.com
 kazefuri.net
 kazokuden.com
@@ -3413,7 +3423,6 @@ kmansin09.top
 knn-fansub.cjb.net
 knowinsiders.com
 knoxt.space
-kobo.com
 kodansha.us
 kodekslibrary.com
 kodokustudio.com
@@ -3496,6 +3505,7 @@ lagoonscans.com
 laguaridax.com
 lamangaspain.com
 lanhlungteam2.top
+lanhlungteam3.top
 lanortrad.com
 lanovels.com
 laoyazy.com
@@ -3668,6 +3678,7 @@ lunarscan.com.br
 lunarscan.org
 lunatoons.org
 luottruyen16.com
+luottruyen999.com
 luoxiaohei.fandom.com
 lupiteam.net
 luratoons.net
@@ -4032,6 +4043,7 @@ mangapark.io
 mangapark.net
 mangapark.org
 mangapark.to
+mangapdf.org
 mangapicgallery.com
 mangapill.com
 mangaplanet.com
@@ -4324,6 +4336,7 @@ metalheroes.fandom.com
 metallicsubs.wordpress.com
 metarthunter.com
 metroiddatabase.com
+metruyen18.vip
 meusmangas.net
 mewatch.sg
 mfteam.fr
@@ -5794,6 +5807,7 @@ tiratelas.net
 titan-comics.com
 tkgames.jp
 tkor131.com
+tkor148.com
 tl.rulate.ru
 tlmc.pf-n.co
 tmav.art
@@ -5870,6 +5884,7 @@ toproadrunner5.info
 toptoon.net
 toptoonplus.com
 toptruyenzone10.com
+toptruyenzone11.com
 tortuga-ceviri.com
 tortugaceviri.com
 total-manga.com
@@ -6091,6 +6106,7 @@ video.unext.jp
 viewasian.org
 viewer.heros-web.com
 viki.com
+vinahentai.lat
 vinahentai.wiki
 vintagecomics.pl
 violetlilytranslation.com
@@ -6265,6 +6281,7 @@ wingsofyuri.nekoslovakia.net
 winterscan.com
 witchculttranslation.com
 witchscans.com
+witchtoons.net
 wlnupdates.com
 wn07.cfd
 wn07.ru
@@ -6345,8 +6362,10 @@ ww6.readjujutsukaisen.com
 ww6.readkingdom.com
 ww7.read7deadlysins.com
 ww7.readopm.com
+ww8.read7deadlysins.com
 ww8.readfairytail.com
 ww9.gogoanimes.fi
+ww9.readfairytail.com
 wwv.scan-1.com
 www2.turkish123.org
 wwwkissanime.com
