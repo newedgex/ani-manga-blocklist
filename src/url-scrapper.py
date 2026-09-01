@@ -128,7 +128,7 @@ def main():
     parser = argparse.ArgumentParser(description="A multi-threaded web crawler that finds external domains.")
     parser.add_argument("domain", help="The starting domain to crawl.")
     parser.add_argument("--depth", type=int, default=1, help="Max depth to crawl. Default=1.")
-    parser.add_argument("--output", default="external_domains.txt", help="Output file for external domains.")
+    parser.add_argument("--output", default="lists/external_domains.txt", help="Output file for external domains.")
     parser.add_argument("--ignore-file", default=None, help="File containing domains to ignore.")
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose logging.")
 
@@ -179,6 +179,10 @@ def main():
 
     if verbose:
         print("[DONE] Crawling complete.")
+
+    output_dir = os.path.dirname(os.path.abspath(output_file))
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
 
     with open(output_file, 'w') as f:
         with external_lock:
